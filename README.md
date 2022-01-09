@@ -1,4 +1,4 @@
-# FlSun Q5 MOD Replace Robin Nano witch SKR Mini E3 v3.0 
+# FlSun Q5 MOD Replace Robin Nano with BTT  SKR Mini E3 v3.0 
 
 
 
