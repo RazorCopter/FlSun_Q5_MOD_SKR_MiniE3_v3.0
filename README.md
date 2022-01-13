@@ -16,3 +16,7 @@ ref. : https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3
   - Wait 60s for flash firmware
 > Others file:
   - Configurations (printer.cfg): Sensors, EndStop, Extruder, NeoPixel (WS2813), etc...
+
+
+
+![Bech](bech.jpeg)
