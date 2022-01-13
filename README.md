@@ -19,4 +19,4 @@ ref. : https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3
 
 
 
-![Bech](bech.jpeg)
+![Bech](bench.jpeg)
